@@ -474,7 +474,7 @@ export default function TermosDeServico() {
             <p className="mt-4 leading-relaxed text-zinc-600 dark:text-zinc-400">
               Você também pode exercer seus direitos previstos na Lei Geral de Proteção de Dados (LGPD) entrando em contato com nosso Encarregado de Proteção de Dados (DPO) através do e-mail{" "}
               <a href="mailto:privacidade@winklyia.com.br" className="text-zinc-900 underline dark:text-zinc-50">
-                privacidade@winklyia.com.br
+                suporte@winklyia.com.br
               </a>.
             </p>
           </section>
